@@ -22,3 +22,7 @@ coverage.xml
 .mypy_cache
 .pytest_cache
 .hypothesis
+chexpert-labeler/
+NegBio/
+mimic-cxr/
+miniconda.sh
