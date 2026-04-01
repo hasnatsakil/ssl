@@ -1,0 +1,9 @@
+[submodule "NegBio"]
+	path = NegBio
+	url = https://github.com/ncbi-nlp/NegBio.git
+[submodule "chexpert-labeler"]
+	path = chexpert-labeler
+	url = https://github.com/stanfordmlgroup/chexpert-labeler.git
+[submodule "mimic-cxr"]
+	path = mimic-cxr
+	url = https://github.com/mit-lcp/mimic-cxr.git
