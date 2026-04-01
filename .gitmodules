@@ -6,4 +6,4 @@
 	url = https://github.com/stanfordmlgroup/chexpert-labeler.git
 [submodule "mimic-cxr"]
 	path = mimic-cxr
-	url = https://github.com/mit-lcp/mimic-cxr.git
+	url = https://github.com/MIT-LCP/mimic-cxr.git
