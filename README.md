@@ -44,8 +44,17 @@ git submodule update --init --recursive
 
 ```bash
 conda env create -f environment.yml  # If available, or manually install dependencies
-# Or use pip
-pip install -r requirements.txt  # If available
+2. Install Python dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+For conda packages like bioc, use:
+
+```bash
+conda install -c bioconda bioc
+```
 ```
 
 3. For specific submodules, follow their setup instructions:
